@@ -1,2 +1,1 @@
-# linux-labs
-SRE practice labs
+# SRE Linux Labs
